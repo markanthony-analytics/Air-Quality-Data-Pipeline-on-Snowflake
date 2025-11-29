@@ -100,8 +100,9 @@ This solution empowers environmental analysts, policymakers, and the public to m
 ---
 
 ## 🧠 Author
-**Nelson Ukaegbu**  
+**Markanthony Lumanzeh**  
 _Data Engineer | Cloud Data Enthusiast | Snowflake Developer_
 
-📧 Contact: [LinkedIn Profile](https://www.linkedin.com/) | [GitHub](https://github.com/nelson-analytics)
+📧 Contact: [LinkedIn Profile](https://www.linkedin.com/) | [GitHub](https://github.com/markanthony-analytics)
+
 
